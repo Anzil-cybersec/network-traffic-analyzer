@@ -1,4 +1,4 @@
-# network-traffic-analyzer
+# Network Traffic Analyzer
 Python project to analyze network traffic captured with Wireshark
 ## Prerequisites
 
@@ -17,7 +17,6 @@ You need to install the following Python libraries:
 - `tabulate`: For formatting tables in the output.
 
 
-# Network Traffic Analyzer
 
 ## **Steps to Capture Network Traffic Using Wireshark**
 
