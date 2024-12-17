@@ -54,7 +54,6 @@ Open the `src/network_analyzer.py` file. Ensure that the path to your `.pcap` fi
 
 ### **4. Run the Script:**
 After placing the capture file and ensuring the script is correctly configured, run the Python script:
-```bash
 python src/network_analyzer.py captures/capture.pcap
 
 ##5. View the Results:
