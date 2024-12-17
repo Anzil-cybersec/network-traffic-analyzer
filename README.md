@@ -56,7 +56,7 @@ Open the `src/network_analyzer.py` file. Ensure that the path to your `.pcap` fi
 After placing the capture file and ensuring the script is correctly configured, run the Python script:
 python src/network_analyzer.py captures/capture.pcap
 
-##5. View the Results:
+### **5. View the Results:**
 The script will output the analysis results in the terminal or command prompt, including:
 
 Total bandwidth used.
