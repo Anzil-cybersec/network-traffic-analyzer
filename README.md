@@ -63,7 +63,7 @@ Total bandwidth used.
 Protocol distribution (ICMP, TCP, UDP).
 Source and destination IP communication details.
 Potential port scanning activity, if detected.
-##Additional Notes:
+## **Additional Notes:**
 You can modify the threshold for port scanning detection by changing the port_scan_threshold parameter in the script
 
 
