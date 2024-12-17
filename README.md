@@ -44,7 +44,7 @@ You need to install the following Python libraries:
 
 ### **1. Clone the Repository:**
 Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/network-analyzer.git
+git clone https://github.com/Anzil-cybersec/network-traffic-analyzer
 
 ### **2. Place the PCAP File:**
 Copy the `.pcap` file (the file you captured with Wireshark) into the `captures/` directory. You can create this directory if it does not already exist.
